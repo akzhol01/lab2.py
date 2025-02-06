@@ -1,1 +1,6 @@
-banana
+mylist = ['apple', 'banana', 'cherry']
+print(mylist[1])
+
+
+
+Answer: banana
