@@ -1,0 +1,7 @@
+fruits = ('apple', 'banana', 'cherry')
+(x, y, z) = fruits
+print(y)
+What will be the value of y?
+
+
+Answer:banana
