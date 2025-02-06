@@ -1,0 +1,4 @@
+x = {'type' : 'fruit', 'name' : 'apple'}
+
+Answer: y = x.copy()
+
