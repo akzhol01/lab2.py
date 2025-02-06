@@ -1,0 +1,7 @@
+fruits = ['apple', 'banana', 'cherry']
+newlist = [x for x in fruits if x == 'banana']
+What will be the value of newlist?
+
+
+
+Answer:['banana']
